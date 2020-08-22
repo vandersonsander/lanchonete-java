@@ -2,4 +2,4 @@
 
 
 
-<p>Exercício da aula de POO, utilizando os conceitos de POO</p>
+<p>Exercício da aula de POO</p>
